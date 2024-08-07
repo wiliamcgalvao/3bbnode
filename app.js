@@ -54,7 +54,7 @@ const html = `
   </head>
   <body>
     <section>
-      Hello from Render by Prof. Wiliam at Bartô!
+      Hello from Render by Prof. Wiliam at Bartô on 3BB SWII!
     </section>
   </body>
 </html>
